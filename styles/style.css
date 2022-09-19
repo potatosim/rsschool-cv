@@ -123,7 +123,7 @@ ul {
 }
 
 .skill-section:nth-child(3) .skill-item:nth-child(2) .progress {
-    width: 15%;
+    width: 80%;
 }
 
 .skill-section:nth-child(3) .skill-item:nth-child(3) .progress {
